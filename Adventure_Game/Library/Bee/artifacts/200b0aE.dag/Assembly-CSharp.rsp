@@ -354,6 +354,7 @@
 "Assets/Scenes/Scripting 3/ApplyForce.cs"
 "Assets/Scenes/Scripting 3/Bounce.cs"
 "Assets/Scenes/Scripting 3/Shrink.cs"
+"Assets/Scenes/Scripting 4/FlipTransformBehavior.cs"
 "Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs"
 -langversion:9.0
 
