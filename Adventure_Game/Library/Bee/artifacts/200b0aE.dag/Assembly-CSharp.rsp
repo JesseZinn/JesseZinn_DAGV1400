@@ -356,6 +356,7 @@
 "Assets/Scenes/Scripting 3/Shrink.cs"
 "Assets/Scenes/Scripting 4/FlipTransformBehavior.cs"
 "Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs"
+"Assets/Scenes/Scripting 5/CharacterAnimatorController.cs"
 -langversion:9.0
 
 /deterministic

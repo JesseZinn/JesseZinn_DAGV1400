@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs">
     <Files>
-      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="13" Column="58" />
-      <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" Line="18" Column="69" />
+      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="31" Column="89" />
+      <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
+      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="32" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Adventure_Game" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scenes" expanded="True">
                 <Node name="Scripting 3" expanded="True" />
-                <Node name="Scripting 4" expanded="True">
-                  <Node name="SimpleCharacterMovement.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 4" expanded="True" />
+                <Node name="Scripting 5" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cac5031a-153e-4363-bdf4-44ab18733435" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b6d3d18-5786-4251-a036-51685fe516ee" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
