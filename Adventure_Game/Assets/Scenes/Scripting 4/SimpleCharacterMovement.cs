@@ -8,7 +8,10 @@ public class SimpleCharacterMovement : MonoBehaviour
     public float jumpForce;
     public float gravity = -9.81f;
 
+    public bool grounded;
+
     private CharacterController controller;
+    public Animator animator;
     private Vector3 velocity;
 
     void Start()
@@ -22,6 +25,27 @@ public class SimpleCharacterMovement : MonoBehaviour
         ApplyGravity();
         KeepCharacterOnXAxis();
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            grounded = true;
+        }
+    }
+    private void OnCollisionStay(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            grounded = true;
+        }
+    }
+    private void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            grounded = false;
+        }
+    }
 
     private void CharacterMovement()
     {
@@ -29,7 +53,7 @@ public class SimpleCharacterMovement : MonoBehaviour
         Vector3 move = new Vector3(moveInput, 0, 0) * (moveSpeed * Time.deltaTime);
         controller.Move(move);
 
-        if (Input.GetButtonDown("Jump") && controller.isGrounded)
+        if (Input.GetButtonDown("Jump") && grounded)
         {
             velocity.y = Mathf.Sqrt(jumpForce * -2f * gravity);
         }
@@ -37,13 +61,21 @@ public class SimpleCharacterMovement : MonoBehaviour
 
     private void ApplyGravity()
     {
-        if (!controller.isGrounded)
+        velocity.y += gravity * Time.deltaTime;
+        if (!grounded)
         {
             velocity.y += gravity * Time.deltaTime;
+
+            if (velocity.y < 0)
+            {
+                animator.SetTrigger("FallTrigger");
+            }
+            Debug.Log("In the air");
         }
         else
         {
             velocity.y = 0f;
+            Debug.Log("goruded");
         }
 
         controller.Move(velocity * Time.deltaTime);

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs">
     <Files>
-      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="41" Column="10" />
+      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="56" Column="65" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="34" Column="54" />
+      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ee24c046-ec95-4aba-adaa-0e78fbf4828c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c64585a4-1dd6-452a-b968-caab4b84d810" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
