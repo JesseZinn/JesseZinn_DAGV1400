@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class SimpleCharacterMovement : MonoBehaviour
 {
+    private float moveInput;
     public float moveSpeed;
     public float jumpForce;
     public float gravity = -9.81f;
-
-    public bool grounded;
 
     private CharacterController controller;
     public Animator animator;
@@ -21,61 +20,43 @@ public class SimpleCharacterMovement : MonoBehaviour
 
     void Update()
     {
+        MyInput();
         CharacterMovement();
         ApplyGravity();
         KeepCharacterOnXAxis();
     }
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            grounded = true;
-        }
-    }
-    private void OnCollisionStay(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            grounded = true;
-        }
-    }
-    private void OnCollisionExit(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            grounded = false;
-        }
-    }
 
-    private void CharacterMovement()
+    private void MyInput()
     {
-        float moveInput = Input.GetAxis("Horizontal");
-        Vector3 move = new Vector3(moveInput, 0, 0) * (moveSpeed * Time.deltaTime);
-        controller.Move(move);
+        moveInput = Input.GetAxis("Horizontal");
 
-        if (Input.GetButtonDown("Jump") && grounded)
+        if (Input.GetButtonDown("Jump") && controller.isGrounded)
         {
             velocity.y = Mathf.Sqrt(jumpForce * -2f * gravity);
         }
     }
 
+    private void CharacterMovement()
+    {
+        Vector3 move = new Vector3(moveInput, 0, 0) * (moveSpeed * Time.deltaTime);
+        controller.Move(move);
+    }
+
     private void ApplyGravity()
     {
         velocity.y += gravity * Time.deltaTime;
-        if (!grounded)
+        if (!controller.isGrounded)
         {
             velocity.y += gravity * Time.deltaTime;
 
             if (velocity.y < 0)
             {
-                animator.SetTrigger("FallTrigger");
+                animator.SetBool("FallBool", true);
             }
-            Debug.Log("In the air");
         }
         else
         {
             velocity.y = 0f;
-            Debug.Log("goruded");
         }
 
         controller.Move(velocity * Time.deltaTime);

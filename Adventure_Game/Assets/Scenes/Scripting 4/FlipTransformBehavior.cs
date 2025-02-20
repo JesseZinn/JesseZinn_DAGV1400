@@ -9,11 +9,11 @@ public class FlipTransformBehavior : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(key1))
+        if (Input.GetKey(key1) && !Input.GetKey(key2))
         {
             transform.rotation = Quaternion.Euler(0, direction1, 0);
         }
-        if (Input.GetKeyDown(key2))
+        if (Input.GetKey(key2) && !Input.GetKey(key1))
         {
             transform.rotation = Quaternion.Euler(0, direction2, 0);
         }

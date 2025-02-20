@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets/Scenes/Scripting 3/Shrink.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
+    <Compile Include="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
     <Compile Include="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
     <Compile Include="Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs" />

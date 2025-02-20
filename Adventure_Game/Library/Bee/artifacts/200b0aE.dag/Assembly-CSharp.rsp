@@ -357,6 +357,7 @@
 "Assets/Scenes/Scripting 4/FlipTransformBehavior.cs"
 "Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs"
 "Assets/Scenes/Scripting 5/CharacterAnimatorController.cs"
+"Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs"
 -langversion:9.0
 
 /deterministic
