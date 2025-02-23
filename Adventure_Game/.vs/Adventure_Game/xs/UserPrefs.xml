@@ -3,21 +3,19 @@
     <Files>
       <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="54" Column="52" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="12" Column="6" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="16" Column="45" />
+      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="16" Column="79" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Adventure_Game" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scenes" expanded="True">
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
-                <Node name="Scripting 6" expanded="True">
-                  <Node name="SimpleTriggerEvent.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 6" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -27,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f0a097a6-8d33-456a-9854-68537df232ad" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d2d9ccd8-9cf8-47bf-a6e0-79e3ab583afd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
