@@ -13,7 +13,7 @@ public class SimpleTriggerEvent : MonoBehaviour
         {
             triggerEvent.Invoke();
 
-            other.GetComponentInChildren<Animator>().SetTrigger("HitTrigger");
+            //other.GetComponentInChildren<Animator>().SetTrigger("HitTrigger");
         }
     }
 }

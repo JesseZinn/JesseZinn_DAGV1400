@@ -11,14 +11,15 @@ public class SimpleCharacterMovement : MonoBehaviour
 
     private CharacterController controller;
     public Animator animator;
+    public CharacterAnimatorController animController;
     private Vector3 velocity;
 
-    void Start()
+    private void Start()
     {
         controller = GetComponent<CharacterController>();
     }
 
-    void Update()
+    private void Update()
     {
         MyInput();
         CharacterMovement();
@@ -38,7 +39,8 @@ public class SimpleCharacterMovement : MonoBehaviour
 
     private void CharacterMovement()
     {
-        Vector3 move = new Vector3(moveInput, 0, 0) * (moveSpeed * Time.deltaTime);
+        Vector3 move = new Vector3(moveInput, 0, 0) * (moveSpeed * Time.deltaTime);//I need to figure out why some animations are cntinung to run even after they shouldn't be
+        //Has something to do from the Apply gravity function. For some reason I'm only grounded when I'm moving, otherwise I'm in the air
         controller.Move(move);
     }
 
@@ -52,11 +54,16 @@ public class SimpleCharacterMovement : MonoBehaviour
             if (velocity.y < 0)
             {
                 animator.SetBool("FallBool", true);
+                //animController.falling = true;
             }
+            //Debug.Log("air");
         }
         else
         {
             velocity.y = 0f;
+            animator.SetBool("FallBool", false);
+            //animController.falling = false;
+            //Debug.Log("grounded");
         }
 
         controller.Move(velocity * Time.deltaTime);

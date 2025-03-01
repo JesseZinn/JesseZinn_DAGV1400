@@ -358,6 +358,8 @@
 "Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs"
 "Assets/Scenes/Scripting 5/CharacterAnimatorController.cs"
 "Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs"
+"Assets/Scenes/Scripting 7/PlayerHealthSO.cs"
+"Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs"
 -langversion:9.0
 
 /deterministic

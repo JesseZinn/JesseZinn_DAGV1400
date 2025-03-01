@@ -6,6 +6,9 @@ public class CharacterAnimatorController : MonoBehaviour
 {
     private Animator animator;
 
+    public bool isDamaged;
+    public bool falling;
+
     private void Start()
     {
         animator = GetComponent<Animator>();
@@ -16,7 +19,7 @@ public class CharacterAnimatorController : MonoBehaviour
     }
     private void AnimatorHandler()
     {
-        if (Input.GetAxis("Horizontal") != 0)
+        if (Input.GetAxis("Horizontal") != 0 && !falling)
         {
             animator.SetTrigger("RunTrigger");
         }
