@@ -12,8 +12,6 @@ public class SimpleTriggerEvent : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             triggerEvent.Invoke();
-
-            //other.GetComponentInChildren<Animator>().SetTrigger("HitTrigger");
         }
     }
 }
