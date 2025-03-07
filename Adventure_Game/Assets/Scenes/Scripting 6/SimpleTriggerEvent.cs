@@ -12,6 +12,12 @@ public class SimpleTriggerEvent : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             triggerEvent.Invoke();
+
+            if (this.gameObject.CompareTag("Collectible"))
+            {
+                //Destroy(this.gameObject);
+                //this.gameObject.isStatic;
+            }
         }
     }
 }

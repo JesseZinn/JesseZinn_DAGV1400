@@ -25,7 +25,7 @@ public class PlayerHealthSO : ScriptableObject
     }
     public void PlayerAddHealth(float health)
     {
-        if (Mathf.Abs(currentPlayerHealth - health) >= health)
+        if (Mathf.Abs(currentPlayerHealth - playerMaxHealth) >= health)
         {
             currentPlayerHealth += health;
         }

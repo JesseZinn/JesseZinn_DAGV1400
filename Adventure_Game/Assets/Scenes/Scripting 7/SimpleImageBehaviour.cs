@@ -6,15 +6,20 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Image))]
 public class SimpleImageBehaviour : MonoBehaviour
 {
-    public PlayerHealthSO dataObj;
+    public PlayerHealthSO healthObj;
+    public PlayerXP experienceObj;
     public Image imageObj;
 
     private void Start()
     {
         imageObj = GetComponent<Image>();
     }
-    public void UpdateWithFloatData()
+    public void UpdateWithHealthData()
     {
-        imageObj.fillAmount = dataObj.healthPercantage;
+        imageObj.fillAmount = healthObj.healthPercantage;
+    }
+    public void UpdateWithXPData()
+    {
+        imageObj.fillAmount = experienceObj.experiencePercantage;
     }
 }
