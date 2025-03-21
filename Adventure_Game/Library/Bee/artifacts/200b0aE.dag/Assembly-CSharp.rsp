@@ -363,6 +363,7 @@
 "Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs"
 "Assets/Scenes/Scripting 8/PlayerScoreSO.cs"
 "Assets/Scenes/Scripting 8/SimpleTextBehaviour.cs"
+"Assets/Scenes/Scripting 9/SoundTrigger.cs"
 -langversion:9.0
 
 /deterministic

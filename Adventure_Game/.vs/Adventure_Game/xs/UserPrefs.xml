@@ -1,30 +1,30 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 7/PlayerHealthSO.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 9/SoundTrigger.cs">
     <Files>
       <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="50" Column="36" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
       <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
       <File FileName="Assets/Scenes/Scripting 7/PlayerHealthSO.cs" Line="28" Column="72" />
-      <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 7/PlayerXP.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 8/PlayerScoreSO.cs" Line="12" Column="31" />
+      <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 7/PlayerXP.cs" />
+      <File FileName="Assets/Scenes/Scripting 8/PlayerScoreSO.cs" />
       <File FileName="Assets/Scenes/Scripting 8/SimpleTextBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" Line="16" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Adventure_Game" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scenes" expanded="True">
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
                 <Node name="Scripting 6" expanded="True" />
-                <Node name="Scripting 7" expanded="True">
-                  <Node name="PlayerHealthSO.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 7" expanded="True" />
                 <Node name="Scripting 8" expanded="True" />
+                <Node name="Scripting 9" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -34,7 +34,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="365ced40-d905-40da-ba06-30922c8509cf" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="642555e4-e171-4acc-b64f-53cad01af6df" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
