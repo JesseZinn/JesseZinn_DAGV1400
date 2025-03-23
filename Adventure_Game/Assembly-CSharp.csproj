@@ -63,11 +63,13 @@
     <Compile Include="Assets/Scenes/Scripting 8/SimpleTextBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Shrink.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
+    <Compile Include="Assets/Scenes/Scripting 9/VolumeControl.cs" />
     <Compile Include="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
     <Compile Include="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripting 9/SoundTrigger.cs" />
     <Compile Include="Assets/Scenes/Scripting 7/PlayerHealthSO.cs" />
+    <Compile Include="Assets/Scenes/Scripting 9/MusicHandler.cs" />
     <Compile Include="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
     <Compile Include="Assets/Scenes/Scripting 8/PlayerScoreSO.cs" />
     <Compile Include="Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs" />
