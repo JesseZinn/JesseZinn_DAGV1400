@@ -19,7 +19,7 @@ public class CharacterAnimatorController : MonoBehaviour
     }
     private void AnimatorHandler()
     {
-        if (Input.GetAxis("Horizontal") != 0 && !falling)
+        if (Input.GetAxis("Horizontal") != 0)
         {
             animator.SetTrigger("RunTrigger");
         }

@@ -33,6 +33,7 @@ public class SimpleCharacterMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && controller.isGrounded)
         {
+            velocity.y = 0f;
             velocity.y = Mathf.Sqrt(jumpForce * -2f * gravity);
         }
     }
@@ -56,16 +57,19 @@ public class SimpleCharacterMovement : MonoBehaviour
                 animator.SetBool("FallBool", true);
                 //animController.falling = true;
             }
+            else
+            {
+                animator.SetBool("FallBool", false);
+            }
             //Debug.Log("air");
         }
         else
         {
             velocity.y = 0f;
-            animator.SetBool("FallBool", false);
             //animController.falling = false;
             //Debug.Log("grounded");
         }
-
+        Debug.Log(velocity);
         controller.Move(velocity * Time.deltaTime);
     }
 
