@@ -69,7 +69,7 @@ public class SimpleCharacterMovement : MonoBehaviour
             //animController.falling = false;
             //Debug.Log("grounded");
         }
-        Debug.Log(velocity);
+        //Debug.Log(velocity);
         controller.Move(velocity * Time.deltaTime);
     }
 

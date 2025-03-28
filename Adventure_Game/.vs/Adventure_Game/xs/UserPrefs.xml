@@ -1,18 +1,13 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs">
     <Files>
-      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="36" Column="29" />
+      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="72" Column="11" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="22" Column="45" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 7/PlayerHealthSO.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 7/PlayerXP.cs" />
-      <File FileName="Assets/Scenes/Scripting 8/PlayerScoreSO.cs" />
-      <File FileName="Assets/Scenes/Scripting 8/SimpleTextBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" />
-      <File FileName="Assets/Scenes/Scripting 9/MusicHandler.cs" />
-      <File FileName="Assets/Scenes/Scripting 9/VolumeControl.cs" Line="19" Column="49" />
+      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
+      <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" Line="19" Column="44" />
+      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" Line="13" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,10 +15,11 @@
           <Node name="Adventure_Game" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
-                <Node name="Scripting 3" expanded="True" />
-                <Node name="Scripting 4" expanded="True">
-                  <Node name="SimpleCharacterMovement.cs" selected="True" />
+                <Node name="Scripting 10" expanded="True">
+                  <Node name="TriggerParticleEffect.cs" selected="True" />
                 </Node>
+                <Node name="Scripting 3" expanded="True" />
+                <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
                 <Node name="Scripting 6" expanded="True" />
                 <Node name="Scripting 7" expanded="True" />
@@ -38,7 +34,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c6fc3677-242c-4a4b-bc7c-466cd584a10b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3a271f12-b5cd-4ada-bb0f-111820dca498" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

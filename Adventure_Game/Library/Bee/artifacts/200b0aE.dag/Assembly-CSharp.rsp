@@ -350,6 +350,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scenes/Scripting 10/TrampolineJump.cs"
+"Assets/Scenes/Scripting 10/TriggerParticleEffect.cs"
 "Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs"
 "Assets/Scenes/Scripting 3/ApplyForce.cs"
 "Assets/Scenes/Scripting 3/Bounce.cs"
