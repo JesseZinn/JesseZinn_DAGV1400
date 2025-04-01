@@ -7,17 +7,15 @@
       <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
       <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
       <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" Line="19" Column="44" />
-      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" Line="13" Column="69" />
+      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Adventure_Game" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scenes" expanded="True">
-                <Node name="Scripting 10" expanded="True">
-                  <Node name="TriggerParticleEffect.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 10" expanded="True" />
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
@@ -34,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3a271f12-b5cd-4ada-bb0f-111820dca498" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="33a835e2-6e7d-435f-a09b-acbdeb957dc5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
