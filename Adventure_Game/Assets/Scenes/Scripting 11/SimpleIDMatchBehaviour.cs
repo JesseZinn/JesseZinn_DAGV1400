@@ -21,7 +21,9 @@ public class SimpleIDMatchBehaviour : MonoBehaviour
         if (otherID.ID == ID)
         {
             matchEvent.Invoke();
+
             Destroy(fireWall);
+            Destroy(otherID.gameObject);
             Debug.Log("Matched Id: " + ID);
         }
         else

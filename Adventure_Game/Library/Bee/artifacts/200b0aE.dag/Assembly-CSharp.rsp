@@ -352,6 +352,7 @@
 -analyzer:"/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scenes/Scripting 10/TrampolineJump.cs"
 "Assets/Scenes/Scripting 10/TriggerParticleEffect.cs"
+"Assets/Scenes/Scripting 11/AttachOnTrigger.cs"
 "Assets/Scenes/Scripting 11/KeyID.cs"
 "Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs"
 "Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs"

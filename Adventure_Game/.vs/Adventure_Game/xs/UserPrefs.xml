@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 9/SoundTrigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 11/AttachOnTrigger.cs">
     <Files>
       <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="72" Column="11" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
       <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="16" Column="59" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="28" Column="31" />
       <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
       <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" />
       <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
       <File FileName="Assets/Scenes/Scripting 11/KeyID.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" Line="23" Column="35" />
-      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" Line="14" Column="48" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" Line="7" Column="21" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" Line="30" Column="42" />
+      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" Line="18" Column="32" />
+      <File FileName="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,16 +21,16 @@
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
                 <Node name="Scripting 10" expanded="True" />
-                <Node name="Scripting 11" expanded="True" />
+                <Node name="Scripting 11" expanded="True">
+                  <Node name="AttachOnTrigger.cs" selected="True" />
+                </Node>
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
                 <Node name="Scripting 6" expanded="True" />
                 <Node name="Scripting 7" expanded="True" />
                 <Node name="Scripting 8" expanded="True" />
-                <Node name="Scripting 9" expanded="True">
-                  <Node name="SoundTrigger.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 9" expanded="True" />
               </Node>
             </Node>
           </Node>

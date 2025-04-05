@@ -64,6 +64,7 @@
     <Compile Include="Assets/Scenes/Scripting 3/Shrink.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
     <Compile Include="Assets/Scenes/Scripting 9/VolumeControl.cs" />
+    <Compile Include="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" />
     <Compile Include="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
     <Compile Include="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
