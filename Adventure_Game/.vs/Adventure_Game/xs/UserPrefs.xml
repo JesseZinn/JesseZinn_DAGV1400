@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 9/SoundTrigger.cs">
     <Files>
       <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="72" Column="11" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
       <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="16" Column="59" />
       <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" />
       <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/KeyID.cs" Line="6" Column="2" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" Line="5" Column="47" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" Line="14" Column="63" />
+      <File FileName="Assets/Scenes/Scripting 11/KeyID.cs" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" Line="23" Column="35" />
+      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" Line="14" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,16 +20,16 @@
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
                 <Node name="Scripting 10" expanded="True" />
-                <Node name="Scripting 11" expanded="True">
-                  <Node name="SimpleIDMatchBehaviour.cs" selected="True" />
-                </Node>
+                <Node name="Scripting 11" expanded="True" />
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripting 4" expanded="True" />
                 <Node name="Scripting 5" expanded="True" />
                 <Node name="Scripting 6" expanded="True" />
                 <Node name="Scripting 7" expanded="True" />
                 <Node name="Scripting 8" expanded="True" />
-                <Node name="Scripting 9" expanded="True" />
+                <Node name="Scripting 9" expanded="True">
+                  <Node name="SoundTrigger.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -38,7 +39,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a185d422-af94-4597-9d01-a616dbb8bf97" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c41bddc-9a2c-4612-aacf-72c0b2619424" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

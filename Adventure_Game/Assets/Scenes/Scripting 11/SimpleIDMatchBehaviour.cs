@@ -5,17 +5,23 @@ using UnityEngine.Events;
 
 public class SimpleIDMatchBehaviour : MonoBehaviour
 {
-    public UnityEvent matchEvent, noMatchEvent;
-
     public KeyID ID;
+    public UnityEvent matchEvent, noMatchEvent;
+    public GameObject fireWall;
 
     private void OnTriggerEnter(Collider other)
     {
         var otherID = other.GetComponent<SimpleIDBehaviour>();
 
+        if (otherID == null)
+        {
+            return;
+        }
+
         if (otherID.ID == ID)
         {
             matchEvent.Invoke();
+            Destroy(fireWall);
             Debug.Log("Matched Id: " + ID);
         }
         else

@@ -13,6 +13,9 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        audioSource.Play();
+        if (other.CompareTag("Player"))
+        {
+            audioSource.Play();
+        }
     }
 }

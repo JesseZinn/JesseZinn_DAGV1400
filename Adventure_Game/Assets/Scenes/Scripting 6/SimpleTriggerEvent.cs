@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class SimpleTriggerEvent : MonoBehaviour
 {
-    public UnityEvent triggerEvent;
+    public UnityEvent triggerEvent, collisionEvent;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -18,6 +18,14 @@ public class SimpleTriggerEvent : MonoBehaviour
                 //Destroy(this.gameObject);
                 //this.gameObject.isStatic;
             }
+        }
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            collisionEvent.Invoke();
+            Debug.Log("FIRE");
         }
     }
 }
