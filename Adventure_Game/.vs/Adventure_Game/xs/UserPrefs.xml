@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripting 11/AttachOnTrigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/Scripting 4/SimpleCharacterMovement.cs">
     <Files>
-      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="72" Column="11" />
+      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="50" Column="48" />
       <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" Line="28" Column="31" />
+      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
       <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" />
-      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
+      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" Line="27" Column="49" />
+      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" Line="21" Column="31" />
       <File FileName="Assets/Scenes/Scripting 11/KeyID.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" Line="7" Column="21" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" Line="30" Column="42" />
-      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" Line="18" Column="32" />
-      <File FileName="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" />
+      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" />
+      <File FileName="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" />
+      <File FileName="Assets/Scenes/Scripts/CameraController.cs" Line="29" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,17 +21,13 @@
           <Node name="Adventure_Game" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scenes" expanded="True">
-                <Node name="Scripting 10" expanded="True" />
-                <Node name="Scripting 11" expanded="True">
-                  <Node name="AttachOnTrigger.cs" selected="True" />
-                </Node>
                 <Node name="Scripting 3" expanded="True" />
-                <Node name="Scripting 4" expanded="True" />
-                <Node name="Scripting 5" expanded="True" />
-                <Node name="Scripting 6" expanded="True" />
-                <Node name="Scripting 7" expanded="True" />
-                <Node name="Scripting 8" expanded="True" />
-                <Node name="Scripting 9" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Scripting 10" expanded="True" />
+                  <Node name="Scripting 4" expanded="True">
+                    <Node name="SimpleCharacterMovement.cs" selected="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -40,7 +37,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c41bddc-9a2c-4612-aacf-72c0b2619424" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4370370c-f3b1-4476-bced-3a50818cfc0b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

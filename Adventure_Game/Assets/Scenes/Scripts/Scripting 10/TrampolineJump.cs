@@ -16,8 +16,8 @@ public class TrampolineJump : MonoBehaviour
         }
         else
         {
-            Vector3 velocity = new Vector3(other.transform.position.x, other.transform.position.y, other.transform.position.z);
-            velocity.y = Mathf.Sqrt(jumpForce * -2f * -9.81f);
+            Vector3 objVelocity = new Vector3(other.gameObject.transform.position.x, other.gameObject.transform.position.y, other.gameObject.transform.position.z);
+            objVelocity.y = Mathf.Sqrt(jumpForce * -2f * -9.81f);
             Debug.Log("dumb");
         }
     }

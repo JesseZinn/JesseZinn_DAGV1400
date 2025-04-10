@@ -20,12 +20,4 @@ public class SimpleTriggerEvent : MonoBehaviour
             }
         }
     }
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-            collisionEvent.Invoke();
-            Debug.Log("FIRE");
-        }
-    }
 }

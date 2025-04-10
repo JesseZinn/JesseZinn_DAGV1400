@@ -9,10 +9,10 @@ public class SimpleCharacterMovement : MonoBehaviour
     public float jumpForce;
     public float gravity = -9.81f;
 
-    private CharacterController controller;
+    public CharacterController controller;
     public Animator animator;
     public CharacterAnimatorController animController;
-    private Vector3 velocity;
+    public Vector3 velocity;
 
     private void Start()
     {

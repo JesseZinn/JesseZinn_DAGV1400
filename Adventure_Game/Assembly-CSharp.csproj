@@ -60,28 +60,29 @@
     <Analyzer Include="/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scenes/Scripting 8/SimpleTextBehaviour.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 4/FlipTransformBehavior.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Shrink.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 8/SimpleTextBehaviour.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerHealthSO.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
-    <Compile Include="Assets/Scenes/Scripting 9/VolumeControl.cs" />
-    <Compile Include="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" />
-    <Compile Include="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
-    <Compile Include="Assets/Scenes/Scripting 10/TrampolineJump.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 4/SimpleCharacterMovement.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerXP.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 5/CharacterAnimatorController.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 7/SimpleImageBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
-    <Compile Include="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" />
-    <Compile Include="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
-    <Compile Include="Assets/Scenes/Scripting 9/SoundTrigger.cs" />
-    <Compile Include="Assets/Scenes/Scripting 7/PlayerHealthSO.cs" />
-    <Compile Include="Assets/Scenes/Scripting 11/KeyID.cs" />
-    <Compile Include="Assets/Scenes/Scripting 9/MusicHandler.cs" />
-    <Compile Include="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-    <Compile Include="Assets/Scenes/Scripting 8/PlayerScoreSO.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 10/TrampolineJump.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 9/SoundTrigger.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 11/KeyID.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 8/PlayerScoreSO.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 10/TriggerParticleEffect.cs" />
+    <Compile Include="Assets/Scenes/Scripts/CameraController.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 9/VolumeControl.cs" />
     <Compile Include="Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs" />
-    <Compile Include="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" />
-    <Compile Include="Assets/Scenes/Scripting 7/PlayerXP.cs" />
-    <Compile Include="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" />
-    <Compile Include="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" />
-    <Compile Include="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 11/SimpleIDMatchBehaviour.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 9/MusicHandler.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 6/SimpleTriggerEvent.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 11/AttachOnTrigger.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 11/SimpleIDBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
