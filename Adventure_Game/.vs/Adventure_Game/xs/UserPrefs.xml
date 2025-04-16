@@ -1,32 +1,24 @@
 ﻿<Properties StartupConfiguration="{97A4FFA1-DFBC-376F-21DA-A38D000385A1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/Scripting 4/SimpleCharacterMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/FinalProject/Scripts/CameraController.cs">
     <Files>
-      <File FileName="Assets/Scenes/Scripting 4/SimpleCharacterMovement.cs" Line="50" Column="48" />
-      <File FileName="Assets/Scenes/Scripting 4/FlipTransformBehavior.cs" />
-      <File FileName="Assets/Scenes/Scripting 5/CharacterAnimatorController.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scenes/Scripting 6/SimpleTriggerEvent.cs" />
-      <File FileName="Assets/Scenes/Scripting 7/SimpleImageBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 10/TriggerParticleEffect.cs" Line="27" Column="49" />
-      <File FileName="Assets/Scenes/Scripting 10/TrampolineJump.cs" Line="21" Column="31" />
-      <File FileName="Assets/Scenes/Scripting 11/KeyID.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/SimpleIDMatchBehaviour.cs" />
-      <File FileName="Assets/Scenes/Scripting 9/SoundTrigger.cs" />
-      <File FileName="Assets/Scenes/Scripting 11/AttachOnTrigger.cs" />
-      <File FileName="Assets/Scenes/Scripts/CameraController.cs" Line="29" Column="35" />
+      <File FileName="Assets/Scenes/Scripts/Scripting 12/SimpleNavMeshAgent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/FinalProject/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scenes/FinalProject/Scripts/CameraController.cs" Line="30" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Adventure_Game" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scenes" expanded="True">
+                <Node name="FinalProject" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
                 <Node name="Scripting 3" expanded="True" />
                 <Node name="Scripts" expanded="True">
                   <Node name="Scripting 10" expanded="True" />
-                  <Node name="Scripting 4" expanded="True">
-                    <Node name="SimpleCharacterMovement.cs" selected="True" />
-                  </Node>
+                  <Node name="Scripting 12" expanded="True" />
+                  <Node name="Scripting 4" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -37,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4370370c-f3b1-4476-bced-3a50818cfc0b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f96202e0-a6d7-4b87-bfa5-90cb3d8748b8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

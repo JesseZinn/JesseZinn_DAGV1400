@@ -72,10 +72,12 @@
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 10/TrampolineJump.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 9/SoundTrigger.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 11/KeyID.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 8/PlayerScoreSO.cs" />
+    <Compile Include="Assets/Scenes/Scripts/Scripting 12/SimpleNavMeshAgent.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 10/TriggerParticleEffect.cs" />
-    <Compile Include="Assets/Scenes/Scripts/CameraController.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 9/VolumeControl.cs" />
     <Compile Include="Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 11/SimpleIDMatchBehaviour.cs" />
@@ -968,8 +970,16 @@
       <HintPath>Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Updater">
+      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
@@ -1012,8 +1022,16 @@
       <HintPath>Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+      <HintPath>Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
