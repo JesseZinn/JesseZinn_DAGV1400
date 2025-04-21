@@ -29,7 +29,7 @@ public class CameraController : MonoBehaviour
             float t = 0.5f * Time.deltaTime;
             cameraSize = Mathf.Lerp(cameraSize, cameraSize + 4f, t);
             //transform.position = Vector3.MoveTowards(transform.position, extendedCamera, step);
-            Debug.Log("Zoooooom");
+            //Debug.Log("Zoooooom");
         }
         else
         {

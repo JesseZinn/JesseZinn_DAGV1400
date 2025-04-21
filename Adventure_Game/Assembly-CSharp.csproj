@@ -65,8 +65,10 @@
     <Compile Include="Assets/Scenes/Scripts/Scripting 8/SimpleTextBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerHealthSO.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/AnimHandler.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 4/SimpleCharacterMovement.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerXP.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/EnemyHealth.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 5/CharacterAnimatorController.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 7/SimpleImageBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/ApplyForce.cs" />
@@ -82,8 +84,10 @@
     <Compile Include="Assets/Scenes/Scripting 2/Scripting2Scripts/TransformController.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 11/SimpleIDMatchBehaviour.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 9/MusicHandler.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/PlayerShoot.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 6/SimpleTriggerEvent.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 11/AttachOnTrigger.cs" />
+    <Compile Include="Assets/Scenes/FinalProject/Scripts/CustomBullet.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 11/SimpleIDBehaviour.cs" />
   </ItemGroup>
   <ItemGroup>

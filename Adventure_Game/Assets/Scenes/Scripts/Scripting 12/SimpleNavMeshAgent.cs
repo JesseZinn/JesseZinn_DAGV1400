@@ -6,6 +6,7 @@ using UnityEngine.AI;
 public class SimpleNavMeshAgent : MonoBehaviour
 {
     private NavMeshAgent agent;
+    public AnimHandler anim;
 
     public Transform target;
     public LayerMask whatIsGround;
@@ -39,10 +40,14 @@ public class SimpleNavMeshAgent : MonoBehaviour
     private void ChasePlayer()
     {
         agent.SetDestination(target.position);
+        anim.running = true;
+        anim.idle = false;
     }
     private void Patrol()
     {
         agent.SetDestination(patrolPoint);
+        anim.idle = true;
+        anim.running = false;
 
         Vector3 patrolPointDistance = patrolPoint - transform.position;
         if (patrolPointDistance.magnitude <= 0.5f)
@@ -63,7 +68,7 @@ public class SimpleNavMeshAgent : MonoBehaviour
     {
         if (Physics.Raycast(point, -Vector3.up, 1f, whatIsGround))
         {
-            return false;
+            return true;
         }
         else
         {
