@@ -10,6 +10,11 @@ public class PlayerHealthSO : ScriptableObject
 
     public float healthPercantage;
 
+    private void Awake()
+    {
+        currentPlayerHealth = playerMaxHealth;
+    }
+
     public void PlayerTakeDamage(float damage)
     {
         if (currentPlayerHealth >= damage)

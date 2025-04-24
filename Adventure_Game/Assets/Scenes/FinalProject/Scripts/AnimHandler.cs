@@ -22,18 +22,21 @@ public class AnimHandler : MonoBehaviour
             hit = false;
             idle = false;
             anim.SetTrigger("RunTrigger");
+            running = false;
         }
         else if (hit)
         {
             running = false;
             idle = false;
             anim.SetTrigger("HitTrigger");
+            hit = false;
         }
         else if (idle)
         {
             running = false;
             hit = false;
             anim.SetTrigger("IdleTrigger");
+            idle = false;
         }
     }
 }

@@ -40,14 +40,30 @@ public class SimpleNavMeshAgent : MonoBehaviour
     private void ChasePlayer()
     {
         agent.SetDestination(target.position);
-        anim.running = true;
-        anim.idle = false;
+        if (!anim.hit)
+        {
+            anim.running = true;
+            anim.idle = false;
+        }
+        else
+        {
+            anim.running = false;
+            anim.idle = false;
+        }
     }
     private void Patrol()
     {
         agent.SetDestination(patrolPoint);
-        anim.idle = true;
-        anim.running = false;
+    if (!anim.hit)
+        {
+            anim.idle = true;
+            anim.running = false;
+        }
+    else
+        {
+            anim.idle = false;
+            anim.running = false;
+        }
 
         Vector3 patrolPointDistance = patrolPoint - transform.position;
         if (patrolPointDistance.magnitude <= 0.5f)

@@ -26,5 +26,9 @@ public class CustomBullet : MonoBehaviour
             other.GetComponent<AnimHandler>().hit = true;
             Destroy(gameObject);
         }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 }

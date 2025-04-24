@@ -7,8 +7,7 @@ public class EnemyHealth : MonoBehaviour
 {
     public int maxHealth;
     private int currentHealth;
-
-    private bool dead;
+    public AnimHandler enemyAnim;
 
     private void Start()
     {
@@ -23,8 +22,10 @@ public class EnemyHealth : MonoBehaviour
     }
     public void TakeDamage(int damage)
     {
-        Debug.Log("hit");
         currentHealth -= damage;
+        enemyAnim.running = false;
+        enemyAnim.idle = false;
+        enemyAnim.hit = true;
     }
     private void IsDead()
     {
