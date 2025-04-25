@@ -23,9 +23,9 @@ public class CameraController : MonoBehaviour
     {
         transform.position = new Vector3(player.transform.position.x, player.transform.position.y + 3f, player.transform.position.z - 10f);
 
-        if (transform.position.x < 6f)
+        if (transform.position.x < 5f)
         {
-            transform.position = new Vector3(6f, player.transform.position.y + 3f, player.transform.position.z - 10f);
+            transform.position = new Vector3(5f, player.transform.position.y + 3f, player.transform.position.z - 10f);
         }
 
         var step = speed * Time.deltaTime;

@@ -20,6 +20,7 @@ GameObject:
   - component: {fileID: 3904296509291017524}
   - component: {fileID: 5077007394606767493}
   - component: {fileID: 4523145743362702849}
+  - component: {fileID: 6110567892591480510}
   m_Layer: 7
   m_Name: AngryPig
   m_TagString: Enemy
@@ -128,7 +129,7 @@ BoxCollider:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 128
+    m_Bits: 384
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 1
@@ -178,7 +179,7 @@ MonoBehaviour:
   triggerEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7156969387579827424, guid: a1c5ed80e96374707b79fc23e1a6c870, type: 3}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.Animator, UnityEngine
         m_MethodName: SetTrigger
         m_Mode: 5
@@ -202,7 +203,7 @@ MonoBehaviour:
           m_StringArgument: HitTrigger
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 7704856481145042772, guid: e195bc876f9194d27bcda96b14850d91, type: 3}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: SimpleImageBehaviour, Assembly-CSharp
         m_MethodName: UpdateWithHealthData
         m_Mode: 1
@@ -226,7 +227,7 @@ MonoBehaviour:
           m_StringArgument: HitTrigger
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 4807985608757265500, guid: c7e51c3e65b87409da886607144310ed, type: 3}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: SimpleImageBehaviour, Assembly-CSharp
         m_MethodName: UpdateWithXPData
         m_Mode: 1
@@ -241,6 +242,7 @@ MonoBehaviour:
   collisionEvent:
     m_PersistentCalls:
       m_Calls: []
+  hitForce: 4
 --- !u!65 &3968325421665105196
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -257,7 +259,7 @@ BoxCollider:
     m_Bits: 64
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
-  m_ProvidesContacts: 1
+  m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 0.36, y: 0.3, z: 0.2}
@@ -405,12 +407,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc4724f02905a472ba9c992535f9d3a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anim: {fileID: 2399763934495486343}
+  anim: {fileID: 6110567892591480510}
   target: {fileID: 0}
   whatIsGround:
     serializedVersion: 2
     m_Bits: 8
-  attackRange: 7
+  attackRange: 12
 --- !u!114 &4523145743362702849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -424,3 +426,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 25
+  enemyAnim: {fileID: 6110567892591480510}
+--- !u!114 &6110567892591480510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 446914762757777151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4c20b58f5e8a4e40890003092e917bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 2399763934495486343}
+  running: 0
+  idle: 0
+  hit: 0
