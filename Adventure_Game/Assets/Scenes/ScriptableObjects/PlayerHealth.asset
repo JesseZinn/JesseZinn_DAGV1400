@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlayerHealth
   m_EditorClassIdentifier: 
   playerMaxHealth: 100
-  healthPercantage: 0.9
+  healthPercantage: 1

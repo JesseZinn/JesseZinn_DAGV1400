@@ -1,0 +1,679 @@
+Payload for "WriteText Library/Bee/artifacts/csharpactions/boot.config_7kyv.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.PlayerBuildProgramBase","methodName":"WriteBootConfigAction","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/WebGL/boot.config"],"inputs":["Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","Library/PlayerDataCache/WebGL/Data/sharedassets1.resource","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AIModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AccessibilityModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AndroidJNIModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AnimationModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AssetBundleModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AudioModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ClothModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ContentLoadModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CoreModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CrashReportingModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DSPGraphModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DirectorModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GIModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GameCenterModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GridModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.HotReloadModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.IMGUIModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ImageConversionModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputLegacyModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.JSONSerializeModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.LocalizationModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ParticleSystemModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PerformanceReportingModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.Physics2DModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PhysicsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ProfilerModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PropertiesModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ScreenCaptureModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SharedInternalsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteMaskModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteShapeModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.StreamingModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubstanceModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubsystemsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TLSModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainPhysicsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreFontEngineModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreTextEngineModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextRenderingModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TilemapModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIElementsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UmbraModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityConnectModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityCurlModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityTestProtocolModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAudioModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestTextureModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestWWWModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VFXModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VRModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VehiclesModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VideoModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WindModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.XRModule.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Accessibility.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.AccessControl.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.AppContext.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Buffers.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Concurrent.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.NonGeneric.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Specialized.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Annotations.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.EventBasedAsync.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.TypeConverter.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Console.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.Common.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.SqlClient.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Contracts.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Debug.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.FileVersionInfo.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Process.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.StackTrace.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TextWriterTraceListener.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tools.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceEvent.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceSource.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tracing.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Drawing.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Dynamic.Runtime.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Calendars.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Compression.ZipFile.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.AccessControl.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.DriveInfo.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Watcher.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.IsolatedStorage.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.MemoryMappedFiles.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Pipes.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.UnmanagedMemoryStream.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Expressions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Parallel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Queryable.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Memory.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.AuthenticationManager.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Cache.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.HttpListener.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Mail.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NameResolution.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NetworkInformation.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Ping.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Requests.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Security.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.ServicePoint.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Sockets.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Utilities.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebHeaderCollection.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.Client.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ObjectModel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.DispatchProxy.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.ILGeneration.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.Lightweight.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.TypeExtensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Reader.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ReaderWriter.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ResourceManager.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Writer.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.CompilerServices.VisualC.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Handles.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.RuntimeInformation.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.WindowsRuntime.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Loader.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Numerics.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Formatters.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Json.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Xml.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.AccessControl.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Claims.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Algorithms.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Cng.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Csp.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.DeriveBytes.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encoding.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.Aes.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDsa.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.Algorithms.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.OpenSsl.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Pkcs.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.ProtectedData.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RSA.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RandomNumberGenerator.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.X509Certificates.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.Windows.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.SecureString.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Duplex.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Http.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.NetTcp.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Security.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceProcess.ServiceController.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.CodePages.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.RegularExpressions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.AccessControl.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Overlapped.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Parallel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Thread.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.ThreadPool.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Timer.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ValueTuple.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.ReaderWriter.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XDocument.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XDocument.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XmlDocument.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlDocument.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlSerializer.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.Xsl.Primitives.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/netstandard.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Microsoft.CSharp.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Sqlite.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Tds.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Security.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.Composition.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.DataAnnotations.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.Install.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Core.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.DataSetExtensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Entity.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Linq.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.OracleClient.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.Client.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Design.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.Protocols.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.Design.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.EnterpriseServices.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.FileSystem.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.Selectors.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Json.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Management.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Messaging.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.WebRequest.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.Vectors.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Reflection.Context.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Caching.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.DurableInstancing.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Remoting.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.Formatters.Soap.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Security.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Activation.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Discovery.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Internals.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Routing.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Web.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceProcess.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Transactions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.ApplicationServices.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.DynamicData.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.Design.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.RegularExpressions.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Services.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.DataVisualization.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xaml.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Linq.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Serialization.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/System.dll","/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityaot-linux/mscorlib.dll","Library/Bee/Playerb5f10acf-inputdata.json"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_nt2h.info"
+
+{"PlayerBuildProgramLibrary.ClassRegistrationGenerator+Arguments":{"linkerOutput":"Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","editorOutput":"/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","moduleAssetsPath":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/modules.asset","outputClassRegistration":"/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp","enableStripping":true},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.ClassRegistrationGenerator","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll","targets":["/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp"],"inputs":["Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/modules.asset"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r8v1w8mbbnmm0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/char-conversions.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jnmyttycptv20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/c6wokhiqy4cm0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/mng0fa84fp320.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8w9giygrlv3p0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/99s4vnca7cia0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/yickcyue1uep0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jr6ufdj27hwh0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jr6ufdj27hwh1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jr6ufdj27hwh2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/lo9sth1s0p1d0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/zwql5pnomup00.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0cc4vtq67sa50.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/d9m9120rk9350.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/cr0zxl09wms10.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u4elapkgxixb0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u4elapkgxixb1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u4elapkgxixb2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u4elapkgxixb3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/m7p48giy8v5w0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/169bx744lowf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5fy17g3r79ag0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r3lh61dk0sd60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r3lh61dk0sd61.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r3lh61dk0sd62.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/i7b3tkos8lfs0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/02qry47ma0es0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5xz63zrg1hol0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5xz63zrg1hol1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/pzzirvg1iu8o0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8c6gkdl4hlzc0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Error.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Event.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Messages.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8c6gkdl4hlzc1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Image.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Path.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Socket.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/cy1pkl66sbuf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/cy1pkl66sbuf1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/cy1pkl66sbuf2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x4ql40d97zv60.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8hftysztmo8k0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8hftysztmo8k1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8hftysztmo8k2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8hftysztmo8k3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0d20nouw373m0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0d20nouw373m1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0d20nouw373m2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0d20nouw373m3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/0d20nouw373m4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/z6gpqg0px1zf0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/z6gpqg0px1zf1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/lyfpvfavh43c0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Output.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/lyfpvfavh43c1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/lyfpvfavh43c2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/baumzo7vfsgj0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uiqvoav9kmqz0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p90.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Module.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Path.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/String.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p91.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Array.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Object.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p92.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/COM.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p93.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Method.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Random.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p94.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Image.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Property.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p95.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Field.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/361ahwowa1p96.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Class.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/Event.cpp"
+#include "/Users/jessezinn/Documents/Unity/2022.3.14f1/Unity.app/Contents/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info"
+
+{"WebGLPlayerBuildProgram.FrameworkAssembler+Data":{"threadsSupport":false,"source":"Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js","jsprePlugins":[]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.FrameworkAssembler","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Adventure Game URL.framework.js.gz_gr2d.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Adventure Game URL/Build/Adventure Game URL.framework.js.gz"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Adventure Game URL.wasm.gz_1z1s.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Adventure Game URL/Build/Adventure Game URL.wasm.gz"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.wasm.unmarked"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info"
+
+{"System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]":{"Library/PlayerDataCache/WebGL/Data/data.unity3d":"data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json":"RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json":"ScriptingAssemblies.json","Library/PlayerDataCache/WebGL/Data/sharedassets1.resource":"sharedassets1.resource","Library/Bee/artifacts/WebGL/boot.config":"boot.config","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat":"Il2CppData/Metadata/global-metadata.dat","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources":"Resources/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra":"Data/Resources/unity_builtin_extra"},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.DataAssembler","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/webgl.data"],"inputs":["Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","Library/PlayerDataCache/WebGL/Data/sharedassets1.resource","Library/Bee/artifacts/WebGL/boot.config","/Users/jessezinn/Documents/GitHub/JesseZinn_DAGV1400/Adventure_Game/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat","/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/Adventure Game URL.data.gz_jun5.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"/Users/jessezinn/Documents/Unity/2022.3.14f1/PlaybackEngines/WebGLSupport/WebGLPlayerBuildProgram.exe","targets":["Adventure Game URL/Build/Adventure Game URL.data.gz"],"inputs":["Library/Bee/artifacts/WebGL/webgl.data.unmarked"],"targetDirectories":[]}}    
+

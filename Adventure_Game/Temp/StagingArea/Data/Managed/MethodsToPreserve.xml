@@ -1,0 +1,126 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenu">
+			<method name="PlayGame"/>
+			<method name="PlayGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="PlayerHealthSO">
+			<method name="PlayerAddHealth"/>
+			<method name="PlayerAddHealth"/>
+			<method name="PlayerAddHealth"/>
+			<method name="PlayerAddHealth"/>
+			<method name="PlayerAddHealth"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+			<method name="PlayerTakeDamage"/>
+		</type>
+		<type fullname="PlayerXP">
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+			<method name="PlayerGainXP"/>
+		</type>
+		<type fullname="SimpleImageBehaviour">
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithHealthData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+			<method name="UpdateWithXPData"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AnimationModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Animator">
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+			<method name="SetTrigger"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

@@ -8,6 +8,7 @@ public class EnemyHealth : MonoBehaviour
     public int maxHealth;
     private int currentHealth;
     public AnimHandler enemyAnim;
+    public UnityEvent deathEvent;
 
     private void Start()
     {
@@ -29,6 +30,7 @@ public class EnemyHealth : MonoBehaviour
     }
     private void IsDead()
     {
+        deathEvent.Invoke();
         Destroy(gameObject);
     }
 }

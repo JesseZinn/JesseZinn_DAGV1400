@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FinalProject/StartScreen.unity
+    guid: b45fbafd29e1146819e6c89c514f51a8
+  - enabled: 1
+    path: Assets/Scenes/FinalProject/FinalProoject.unity
+    guid: cbeb2912eadbd4bbca254a1898a90f59
+  - enabled: 1
+    path: Assets/Scenes/FinalProject/FinishScreen.unity
+    guid: bdae6fcae18064171b536d5b7636fa7d
+  - enabled: 1
+    path: Assets/Scenes/FinalProject/DeathScreen.unity
+    guid: cde56d414e36f496fbc4312f5e5090f2
   m_configObjects: {}

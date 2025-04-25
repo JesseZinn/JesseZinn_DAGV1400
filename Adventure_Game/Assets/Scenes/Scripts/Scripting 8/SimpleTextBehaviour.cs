@@ -6,16 +6,16 @@ using TMPro;
 public class SimpleTextBehaviour : MonoBehaviour
 {
     public TextMeshProUGUI experienceObj;
-    public TextMeshProUGUI scoreObj;
+    //public TextMeshProUGUI scoreObj;
     public PlayerXP experienceData;
-    public PlayerScoreSO scoreData;
+    //public PlayerScoreSO scoreData;
 
     private void Start()
     {
         //experienceObj.GetComponent<TextMeshProUGUI>();
 
         experienceObj.text = experienceData.currentXPLevel.ToString();
-        scoreObj.text = scoreData.currentScore.ToString();   
+        //scoreObj.text = scoreData.currentScore.ToString();   
     }
     public void Update()
     {
@@ -23,6 +23,6 @@ public class SimpleTextBehaviour : MonoBehaviour
     }
     public void UpdateWithIntData()
     {
-        scoreObj.text = scoreData.currentScore.ToString();
+        //scoreObj.text = scoreData.currentScore.ToString();
     }
 }

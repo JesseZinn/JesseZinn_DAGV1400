@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FinalProject/FinalProoject.unity
+- path: Assets/Scenes/FinalProject/DeathScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

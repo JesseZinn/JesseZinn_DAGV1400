@@ -11,6 +11,11 @@ public class PlayerXP : ScriptableObject
     public float currentXP;
     public float experiencePercantage;
 
+    private void Awake()
+    {
+        currentXPLevel = 0;
+        currentXP = 0;
+    }
     public void PlayerGainXP(float value)
     {
         if (Mathf.Abs(currentXP - maxXP) > value)
