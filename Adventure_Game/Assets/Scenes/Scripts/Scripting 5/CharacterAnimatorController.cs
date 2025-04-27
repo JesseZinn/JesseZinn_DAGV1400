@@ -5,6 +5,7 @@ using UnityEngine;
 public class CharacterAnimatorController : MonoBehaviour
 {
     private Animator animator;
+    public PlayerMovement pm;
 
     public bool isDamaged;
     public bool falling;
@@ -15,6 +16,7 @@ public class CharacterAnimatorController : MonoBehaviour
     }
     private void Update()
     {
+
         AnimatorHandler();
     }
     private void AnimatorHandler()
@@ -28,13 +30,13 @@ public class CharacterAnimatorController : MonoBehaviour
             animator.SetTrigger("IdleTrigger");
         }
 
-        if (Input.GetButtonDown("Jump"))
+        if (pm.rb.velocity.y > 0 && !pm.grounded)
         {
             animator.SetTrigger("JumpTrigger");
         }
-        if (Input.GetKeyDown(KeyCode.W))
+        if (pm.rb.velocity.y < 0 && !pm.grounded)
         {
-            animator.SetTrigger("DoubleJumpTrigger");
+            animator.SetTrigger("FallTrigger");
         }
     }
 }

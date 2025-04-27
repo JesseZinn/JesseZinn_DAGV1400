@@ -67,7 +67,6 @@
     <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerHealthSO.cs" />
     <Compile Include="Assets/Scenes/Scripting 3/Bounce.cs" />
     <Compile Include="Assets/Scenes/FinalProject/Scripts/AnimHandler.cs" />
-    <Compile Include="Assets/Scenes/Scripts/Scripting 4/SimpleCharacterMovement.cs" />
     <Compile Include="Assets/Scenes/FinalProject/Scripts/FinishScript.cs" />
     <Compile Include="Assets/Scenes/Scripts/Scripting 7/PlayerXP.cs" />
     <Compile Include="Assets/Scenes/FinalProject/Scripts/EnemyHealth.cs" />

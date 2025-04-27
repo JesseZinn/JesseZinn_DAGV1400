@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private LayerMask whatIsGround;
-    private Rigidbody rb;
+    public Rigidbody rb;
     public Transform orientation;
 
     public float moveSpeed;
